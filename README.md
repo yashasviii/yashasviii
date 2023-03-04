@@ -120,9 +120,3 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 </details>
 
 #
-
-<div align="center">
-
-### Visit my company [PVA INDIA](https://pvaindia.com) & Community [The Epic Code](https://theepiccode.com)
-
-</div>
