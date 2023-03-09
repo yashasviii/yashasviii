@@ -8,30 +8,25 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ceokartik.ceokartik&style=flat-square&color=0088cc)
 
-Hi 👋🏻, My name is Kunal Sharma and I'm pursuing my UG in Computer Science and Engineering (Artificial Intelligence) at the Pranveer Singh Institute of Technology, Kanpur, an AKTU University, Lucknow. 
-During my college, I've worked for 8-9 months for Reset Networks, an internship related to Machine Learning and Software Development.
+Hi 👋🏻, My name is Yashasvi Singh and I'm pursuing my UG in Computer Science and Engineering at Ambalika Institute of Management and Technology, Lucknow, an AKTU University, Lucknow. 
 
-I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.
+I’m currently working on frontend development,and learning DSA in JAVA and Python.
 
-I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in C++, Python SQL, Data Analysis.
+I'm an aspiring Engineer with working knowledge of database management systems, SQL, Operating System and Computer Networks.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Machine Learning, C++, Python, Data Analysis, <br /> MATLABS, Power BI.
-- 🚀 &nbsp; I’m currently Tensorflow and PyTorch.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ks3122001).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/pvaceo)! I am happy to help.
-<!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
-<!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
+- 🛠 &nbsp; I’m currently working with HTML, CSS, Bootstrap, JS, React.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yashasviii).
+- 💬 &nbsp; Ask me about anything [here](https://t.me/shm_kunal)! I am happy to help.
+- 📫 &nbsp; How to reach me: yashasvi1426@gmail.com.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Watching standUp comedy.
-- 🍕 &nbsp; Hackathons, Robowars & tech events.
+- 💻 &nbsp; I love listening to songs and writing blogs.
+- 🍕 &nbsp; Website, Code and Coffee.
 
 ### Languages and Tools:
 
@@ -46,10 +41,6 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Projects and Dev Stuffs:
 
