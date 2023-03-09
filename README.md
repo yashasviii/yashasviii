@@ -13,7 +13,8 @@ I’m currently working on frontend development,and learning DSA in JAVA and Pyt
 
 I'm an aspiring Engineer with working knowledge of database management systems, SQL, Operating System and Computer Networks.
 
-<img align="right" height="250" width="375" alt="" src=["https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif](https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882)"/>
+<!--<img align="right" height="250" width="375" alt="" src=["https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif](https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882)"/>-->
+<div class="tenor-gif-embed" data-postid="15349911" data-share-method="host" data-aspect-ratio="0.846875" data-width="100%"><a href="https://tenor.com/view/web-design-modern-web-gif-gif-15349911">Web Design Modern Web Gif GIF</a>from <a href="https://tenor.com/search/web+design-gifs">Web Design GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Talking about Personal Stuffs:
 
