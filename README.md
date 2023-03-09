@@ -35,7 +35,7 @@ I'm an aspiring Engineer with working knowledge of database management systems, 
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></code>
 
   <summary><b>⚡ Github Stats</b></summary>
-<details aligh="centre">
+<details align="centre">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashasviii&show_icons=true&hide_border=true"/>
  </details?
 
