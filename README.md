@@ -13,8 +13,6 @@ I’m currently working on frontend development,and learning DSA in JAVA and Pyt
 
 I'm an aspiring Engineer with working knowledge of database management systems, SQL, Operating System and Computer Networks.
 
-<!--<img align="right" height="250" width="375" alt="" src=["https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif](https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882)"/>-->
-<img align="right" height="421" width="498" alt"" src="https://tenor.com/view/web-design-modern-web-gif-gif-15349911"/>
 
 ### Talking about Personal Stuffs:
 
