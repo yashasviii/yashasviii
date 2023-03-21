@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Yashasvi Singh!](https://github.com/ks3122001/)
+## Hey 👋, I'm [Yashasvi Singh!](https://github.com/yashasviii/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashasvi-singh-4b2b92234/)
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ks3122001.github.io/)-->
