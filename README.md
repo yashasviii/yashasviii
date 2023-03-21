@@ -38,5 +38,3 @@ I'm an aspiring Engineer with working knowledge of database management systems, 
 <details align="centre">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashasviii&show_icons=true&hide_border=true"/>
  </details?
-
-#
